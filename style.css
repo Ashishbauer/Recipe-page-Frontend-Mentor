@@ -1,0 +1,140 @@
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+ 
+body {
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: white;
+    height: auto;
+    width: 626px;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+img {
+    height: 270px;
+    width: 600px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+h1{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    color: hsl(24, 5%, 18%);
+}
+
+h2{
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%);
+    font-weight: 400;
+}
+
+h3{
+    font-family: "Outfit", serif;
+    color: hsl(332, 51%, 32%);
+    margin: 0;
+}
+
+.intro {
+    font-family: "Outfit", serif;
+    color: hsl(30, 10%, 34%);
+}
+
+.prep {
+    background-color: hsl(330, 100%, 98%);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.prep-time {
+    color: hsl(332, 51%, 32%);
+    font-family: "Outfit", serif;
+}
+
+.prep-time > li {
+    margin-bottom: 10px;
+}
+
+.prep1{
+    color: hsl(30, 10%, 34%);
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.prep2{
+    color: hsl(30, 10%, 34%);
+}
+
+.ing {
+    color: hsl(14, 45%, 36%);
+    font-family: "Outfit", serif;
+    margin-bottom: 35px;
+}
+
+.ing > li {
+    margin-bottom: 20px;
+}
+
+.ing1 {
+    color: hsl(30, 10%, 34%);
+}
+
+.inst {
+    color: hsl(14, 45%, 36%);
+    font-family: "Outfit", serif;
+    margin-bottom: 35px;
+}
+
+.inst > li {
+    margin-bottom: 20px;
+}
+
+.inst2 {
+    color: hsl(24, 5%, 18%);
+    font-weight: 600;
+}
+
+.inst3 {
+    color: hsl(30, 10%, 34%);
+}
+
+.nut {
+    font-family: "Outfit", serif;
+    color: hsl(30, 10%, 34%);
+}
+
+table {
+    font-family: "Outfit", serif;
+    color: hsl(30, 10%, 34%);
+    border-collapse: collapse;
+}
+
+.row {
+    margin-bottom: 10px;
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+
+.first {
+    width: 100%;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.second {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+    padding-right: 235px;
+}
+
+hr {
+    color: hsl(30, 18%, 87%);
+}
